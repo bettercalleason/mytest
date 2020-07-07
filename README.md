@@ -4,10 +4,6 @@
 
 #### JavaScript 作業
 
-<style type="text/css">
-    .capital-list{list-style-type: upper-alpha; }
-</style>
-
 - 作業 1
 
   - 有三筆學生資料，分別為
@@ -39,4 +35,5 @@
 ![eye sketch](https://cdn.pixabay.com/photo/2019/09/05/05/28/blue-4453129__480.jpg)
 
 作業 2
+
 [![cat](https://cdn.pixabay.com/photo/2018/05/01/07/47/animal-3364909__480.png)](https://i.imgur.com/T64Obbf.mp4)
