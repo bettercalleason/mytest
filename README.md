@@ -1,10 +1,10 @@
-<style type="text/css">
-    .capital-list{list-style-type: upper-alpha; }
-</style>
-
 ## 小型專案展示
 
 ---
+
+<style type="text/css">
+    .capital-list{list-style-type: upper-alpha; }
+</style>
 
 #### JavaScript 作業
 
